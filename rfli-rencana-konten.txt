@@ -1,6 +1,8 @@
   RENCANA KONTEN RFLI
 
 -Belajar HTML
+*pengenalan
+*pembelajaran
 -Belajar CSS
 -Belajar Javascript
 -Membuat Vlogs
